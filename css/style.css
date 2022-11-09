@@ -1,0 +1,54 @@
+.menu{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.menu li{
+    padding: 5px;
+    display: inline;
+}
+.baslik {
+    font-family: sans-serif;
+    color: #cf2340;
+    text-align: center;
+
+}
+.baslik-2 {
+color: purple;
+text-align: center;
+position: relative;
+top: 50%;
+}
+.text{
+    text-align: center;
+}
+.list {
+    list-style-position: inside ;
+    text-align: center;
+}
+.list li{
+    list-style-position: inside;
+}
+.text-2{
+    text-align: center;
+    color: goldenrod;
+    font-weight: bold;
+}
+.images{
+    text-align: center;
+}
+.images img{
+    width: 400px;
+}
+
+.main-text{
+    color: red;
+}
+.intro{
+    font-style: italic;
+}
+#outro{
+    color: green;
+}
